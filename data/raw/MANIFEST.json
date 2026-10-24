@@ -1,0 +1,31 @@
+{
+  "horizons_earth_vectors.txt": {
+    "bytes": 289850,
+    "sha256": "e3d922e1a2bbde986341a67dd657c33af4a933e5e2932d39cf41f526082d0245"
+  },
+  "horizons_eros_elements.txt": {
+    "bytes": 502060,
+    "sha256": "81cc6987d2da55eb50b442e7c3e419e69876c017bbdcc262f01c92d5ca3d8cd4"
+  },
+  "horizons_eros_radec_geocentric.txt": {
+    "bytes": 158783,
+    "sha256": "4f22ee75c4d146f06299d0b20edc670cb04ab784e4c84f6874cc076f1fdafc00"
+  },
+  "horizons_eros_vectors.txt": {
+    "bytes": 290867,
+    "sha256": "5a10c98997c9d91d52a982905e7de19863e2290cfe728ee9c6e64711900c82ff"
+  },
+  "mpc_obs_433.json": {
+    "bytes": 11721297,
+    "sha256": "f64d3ed32244786bb93b2cf746402f303c6ca44508a28084ee42eee56bb95fa8"
+  },
+  "sbdb_433.json": {
+    "bytes": 8261,
+    "sha256": "880788c4b0c9f980f51f4286a887dc928609d417ca67bdde6e7346b344cc756c"
+  },
+  "station_coords_horizons.json": {
+    "bytes": 8372,
+    "sha256": "4ec3c5dfb33295073dca59fa8080985a9858c4d9a7a3ddb53d48e7c50e1b124e"
+  },
+  "_downloaded_utc": "2026-10-23 13:52:46"
+}

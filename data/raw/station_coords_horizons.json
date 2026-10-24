@@ -1,0 +1,359 @@
+{
+ "006": {
+  "longitude": 2.1242,
+  "rhocosphi": 0.7510435194477636,
+  "rhosinphi": 0.6581297093492975,
+  "name": "006",
+  "source": "JPL Horizons site header"
+ },
+ "122": {
+  "longitude": 3.5035,
+  "rhocosphi": 0.7201699775341922,
+  "rhosinphi": 0.6917591892428776,
+  "name": "122",
+  "source": "JPL Horizons site header"
+ },
+ "160": {
+  "longitude": 10.8414,
+  "rhocosphi": 0.7226514952563735,
+  "rhosinphi": 0.6889141233560835,
+  "name": "160",
+  "source": "JPL Horizons site header"
+ },
+ "162": {
+  "longitude": 15.7805,
+  "rhocosphi": 0.7598812850837166,
+  "rhosinphi": 0.6480793325699966,
+  "name": "162",
+  "source": "JPL Horizons site header"
+ },
+ "185": {
+  "longitude": 7.4219,
+  "rhocosphi": 0.678760544027198,
+  "rhosinphi": 0.7320005747759887,
+  "name": "185",
+  "source": "JPL Horizons site header"
+ },
+ "233": {
+  "longitude": 10.5403,
+  "rhocosphi": 0.7222597993740179,
+  "rhosinphi": 0.6893105086955642,
+  "name": "233",
+  "source": "JPL Horizons site header"
+ },
+ "327": {
+  "longitude": 117.575,
+  "rhocosphi": 0.7627802961899376,
+  "rhosinphi": 0.6446994961067786,
+  "name": "327",
+  "source": "JPL Horizons site header"
+ },
+ "703": {
+  "longitude": 249.2674,
+  "rhocosphi": 0.8453106698711552,
+  "rhosinphi": 0.5332118375632258,
+  "name": "703",
+  "source": "JPL Horizons site header"
+ },
+ "C23": {
+  "longitude": 5.1544,
+  "rhocosphi": 0.6286939477781679,
+  "rhosinphi": 0.7750518435085355,
+  "name": "C23",
+  "source": "JPL Horizons site header"
+ },
+ "C40": {
+  "longitude": 39.0308,
+  "rhocosphi": 0.7080602690095871,
+  "rhosinphi": 0.7038008794731127,
+  "name": "C40",
+  "source": "JPL Horizons site header"
+ },
+ "C41": {
+  "longitude": 42.6613,
+  "rhocosphi": 0.7238570714301057,
+  "rhosinphi": 0.6881049325218319,
+  "name": "C41",
+  "source": "JPL Horizons site header"
+ },
+ "D04": {
+  "longitude": 38.8569,
+  "rhocosphi": 0.7096012487659014,
+  "rhosinphi": 0.702250517666836,
+  "name": "D04",
+  "source": "JPL Horizons site header"
+ },
+ "D29": {
+  "longitude": 118.4639,
+  "rhocosphi": 0.8420410724949935,
+  "rhosinphi": 0.5376705940935418,
+  "name": "D29",
+  "source": "JPL Horizons site header"
+ },
+ "D76": {
+  "longitude": 2.007,
+  "rhocosphi": 0.7493547739723998,
+  "rhosinphi": 0.6600318933255902,
+  "name": "D76",
+  "source": "JPL Horizons site header"
+ },
+ "G02": {
+  "longitude": 18.7654,
+  "rhocosphi": 0.6533074046543687,
+  "rhosinphi": 0.754650865918998,
+  "name": "G02",
+  "source": "JPL Horizons site header"
+ },
+ "G11": {
+  "longitude": 7.1838,
+  "rhocosphi": 0.6307134042432767,
+  "rhosinphi": 0.7734662990149005,
+  "name": "G11",
+  "source": "JPL Horizons site header"
+ },
+ "G17": {
+  "longitude": 11.2026,
+  "rhocosphi": 0.7235075947725801,
+  "rhosinphi": 0.6880228411525183,
+  "name": "G17",
+  "source": "JPL Horizons site header"
+ },
+ "G34": {
+  "longitude": 13.7015,
+  "rhocosphi": 0.6325475699251992,
+  "rhosinphi": 0.772037902290277,
+  "name": "G34",
+  "source": "JPL Horizons site header"
+ },
+ "G96": {
+  "longitude": 249.2113,
+  "rhocosphi": 0.8451066134201883,
+  "rhosinphi": 0.533610569983053,
+  "name": "G96",
+  "source": "JPL Horizons site header"
+ },
+ "J37": {
+  "longitude": 353.0647,
+  "rhocosphi": 0.7968929453851494,
+  "rhosinphi": 0.6021032505259765,
+  "name": "J37",
+  "source": "JPL Horizons site header"
+ },
+ "J51": {
+  "longitude": 343.729,
+  "rhocosphi": 0.8797892127434703,
+  "rhosinphi": 0.47381023486952384,
+  "name": "J51",
+  "source": "JPL Horizons site header"
+ },
+ "K74": {
+  "longitude": 10.2364,
+  "rhocosphi": 0.6466696983774416,
+  "rhosinphi": 0.7602495242733106,
+  "name": "K74",
+  "source": "JPL Horizons site header"
+ },
+ "K83": {
+  "longitude": 11.0432,
+  "rhocosphi": 0.7234864851601652,
+  "rhosinphi": 0.6880814773969264,
+  "name": "K83",
+  "source": "JPL Horizons site header"
+ },
+ "K87": {
+  "longitude": 10.1701,
+  "rhocosphi": 0.6466462448203919,
+  "rhosinphi": 0.7602893979856501,
+  "name": "K87",
+  "source": "JPL Horizons site header"
+ },
+ "L04": {
+  "longitude": 23.5964,
+  "rhocosphi": 0.6855436689428277,
+  "rhosinphi": 0.7256748169567384,
+  "name": "L04",
+  "source": "JPL Horizons site header"
+ },
+ "L65": {
+  "longitude": 8.8283,
+  "rhocosphi": 0.6020586857886558,
+  "rhosinphi": 0.7957835336556741,
+  "name": "L65",
+  "source": "JPL Horizons site header"
+ },
+ "L76": {
+  "longitude": 39.6516,
+  "rhocosphi": 0.6835312490151906,
+  "rhosinphi": 0.7274831820012647,
+  "name": "L76",
+  "source": "JPL Horizons site header"
+ },
+ "L92": {
+  "longitude": 16.0021,
+  "rhocosphi": 0.7814245100097411,
+  "rhosinphi": 0.6219671135944557,
+  "name": "L92",
+  "source": "JPL Horizons site header"
+ },
+ "M22": {
+  "longitude": 20.8103,
+  "rhocosphi": 0.8455616365719333,
+  "rhosinphi": -0.5326160867977593,
+  "name": "M22",
+  "source": "JPL Horizons site header"
+ },
+ "M59": {
+  "longitude": 7.2288,
+  "rhocosphi": 0.6803343609583802,
+  "rhosinphi": 0.73061674122083,
+  "name": "M59",
+  "source": "JPL Horizons site header"
+ },
+ "M65": {
+  "longitude": 28.3249,
+  "rhocosphi": 0.48507322436002864,
+  "rhosinphi": 0.8715589270032926,
+  "name": "M65",
+  "source": "JPL Horizons site header"
+ },
+ "M73": {
+  "longitude": 54.7453,
+  "rhocosphi": 0.9170190025708135,
+  "rhosinphi": 0.39753994465782094,
+  "name": "M73",
+  "source": "JPL Horizons site header"
+ },
+ "R17": {
+  "longitude": 343.4897,
+  "rhocosphi": 0.8814849947563059,
+  "rhosinphi": 0.4714295726165807,
+  "name": "R17",
+  "source": "JPL Horizons site header"
+ },
+ "R53": {
+  "longitude": 355.4133,
+  "rhocosphi": 0.803228083686506,
+  "rhosinphi": 0.5937322356042212,
+  "name": "R53",
+  "source": "JPL Horizons site header"
+ },
+ "R61": {
+  "longitude": 358.6305,
+  "rhocosphi": 0.7682992086874271,
+  "rhosinphi": 0.6382001734989386,
+  "name": "R61",
+  "source": "JPL Horizons site header"
+ },
+ "R67": {
+  "longitude": 0.2834,
+  "rhocosphi": 0.6810286216805942,
+  "rhosinphi": 0.7298286599989935,
+  "name": "R67",
+  "source": "JPL Horizons site header"
+ },
+ "R97": {
+  "longitude": 10.5395,
+  "rhocosphi": 0.6490902327748683,
+  "rhosinphi": 0.7582324133206922,
+  "name": "R97",
+  "source": "JPL Horizons site header"
+ },
+ "S24": {
+  "longitude": 19.5468,
+  "rhocosphi": 0.6719023627118702,
+  "rhosinphi": 0.73820436594573,
+  "name": "S24",
+  "source": "JPL Horizons site header"
+ },
+ "T05": {
+  "longitude": 203.743,
+  "rhocosphi": 0.9362355135990337,
+  "rhosinphi": 0.35154744559422296,
+  "name": "T05",
+  "source": "JPL Horizons site header"
+ },
+ "T08": {
+  "longitude": 204.4239,
+  "rhocosphi": 0.9432907148278565,
+  "rhosinphi": 0.33246697272259906,
+  "name": "T08",
+  "source": "JPL Horizons site header"
+ },
+ "V72": {
+  "longitude": 263.89,
+  "rhocosphi": 0.7526970822357689,
+  "rhosinphi": 0.6562345619104764,
+  "name": "V72",
+  "source": "JPL Horizons site header"
+ },
+ "W37": {
+  "longitude": 281.2201,
+  "rhocosphi": 0.7364663662759204,
+  "rhosinphi": 0.6742806794523228,
+  "name": "W37",
+  "source": "JPL Horizons site header"
+ },
+ "W46": {
+  "longitude": 280.4119,
+  "rhocosphi": 0.8186144261247446,
+  "rhosinphi": 0.5724493578610808,
+  "name": "W46",
+  "source": "JPL Horizons site header"
+ },
+ "W68": {
+  "longitude": 289.235,
+  "rhocosphi": 0.8628454719614834,
+  "rhosinphi": -0.5042686257758339,
+  "name": "W68",
+  "source": "JPL Horizons site header"
+ },
+ "X04": {
+  "longitude": 291.5675,
+  "rhocosphi": 0.6642654837925244,
+  "rhosinphi": 0.7449992199916684,
+  "name": "X04",
+  "source": "JPL Horizons site header"
+ },
+ "X33": {
+  "longitude": 299.9904,
+  "rhocosphi": 0.9986463664860131,
+  "rhosinphi": -0.051940634859364114,
+  "name": "X33",
+  "source": "JPL Horizons site header"
+ },
+ "X76": {
+  "longitude": 309.991,
+  "rhocosphi": 0.9902753515642577,
+  "rhosinphi": -0.13887112694506248,
+  "name": "X76",
+  "source": "JPL Horizons site header"
+ },
+ "Y84": {
+  "longitude": 358.1197,
+  "rhocosphi": 0.6655038955732685,
+  "rhosinphi": 0.7439085723621177,
+  "name": "Y84",
+  "source": "JPL Horizons site header"
+ },
+ "Z36": {
+  "longitude": 354.9455,
+  "rhocosphi": 0.8052240865945651,
+  "rhosinphi": 0.591004443774099,
+  "name": "Z36",
+  "source": "JPL Horizons site header"
+ },
+ "Z59": {
+  "longitude": 357.7154,
+  "rhocosphi": 0.5992933657586847,
+  "rhosinphi": 0.7978710099830092,
+  "name": "Z59",
+  "source": "JPL Horizons site header"
+ },
+ "Z80": {
+  "longitude": 359.6281,
+  "rhocosphi": 0.6230554157115158,
+  "rhosinphi": 0.7795692362832595,
+  "name": "Z80",
+  "source": "JPL Horizons site header"
+ }
+}
